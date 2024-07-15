@@ -1,0 +1,33 @@
+{
+  "user": [
+    {
+      "id": "b6e0",
+      "name": "Aditya",
+      "email": "adi123@gmail.com",
+      "url": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2116175301.1719100800&semt=sph",
+      "password": "adi123"
+    },
+    {
+      "id": "7229",
+      "name": "Abhinav",
+      "email": "abhi123@gmail.com",
+      "url": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?cs=srgb&dl=pexels-justin-shaifer-501272-1222271.jpg&fm=jpg",
+      "password": "abhi123"
+    },
+    {
+      "id": "f418",
+      "name": "alexa ",
+      "email": "alexa123@gmail.com",
+      "url": "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D",
+      "password": "alexa123"
+    },
+    {
+      "id": "c3fe",
+      "name": "etrilen",
+      "email": "etrilen123@gmail.com",
+      "url": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vZGVsfGVufDB8fDB8fHww",
+      "password": "etrilen123",
+      "contact": "87654321234"
+    }
+  ]
+}

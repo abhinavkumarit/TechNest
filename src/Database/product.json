@@ -1,0 +1,134 @@
+{
+  "product": [
+    {
+      "product": "ASUS Creator Series Vivobook",
+      "price": "85990",
+      "category": "Laptop",
+      "image": "https://m.media-amazon.com/images/I/71SsTqzf8ML._SX522_.jpg",
+      "description": "Creator/Gaming Laptop (8GB/512GB/4GB RTX 2050/Win11/Office 2021/FP/Silver/1.8 kg), K3605ZF-MBN524WS",
+      "offer": "40",
+      "ratting": "4.5",
+      "id": "37c0"
+    },
+    {
+      "product": "RWC Kitchen Shelf 3 Tier",
+      "price": "1299",
+      "category": "KitchenItem",
+      "image": "https://m.media-amazon.com/images/I/51TAC0mtKaL._AC_SY200_.jpg",
+      "description": "This rectangle kitchen wall shelf is carved with quality engineered wood to ensure sturdiness and make it long lasting. ",
+      "offer": "50",
+      "ratting": "1",
+      "id": "936c"
+    },
+    {
+      "product": "Popsugar Off Roader Rechargeable Remote Control",
+      "price": "1119",
+      "category": "Toys",
+      "image": "https://m.media-amazon.com/images/I/717pTcRrigL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Monster Truck with 2 Speeds and 4 Headlight Modes | Lithium Battery | C-Type Charging | Remote Control ",
+      "offer": "12",
+      "ratting": "3.5",
+      "id": "5c60"
+    },
+    {
+      "product": "Playstation Portal For Ps5",
+      "price": "49999",
+      "category": "Toys",
+      "image": "https://m.media-amazon.com/images/I/61wQoJIPHAL._AC_UY327_FMwebp_QL65_.jpg",
+      "description": "Experience the incredible immersion of DualSense wireless controller features like haptic feedback and adaptive triggers ",
+      "offer": "50",
+      "ratting": "4.2",
+      "id": "858e"
+    },
+    {
+      "product": "BRUTON Men Sports Shoes",
+      "price": "1299",
+      "category": "Shoes",
+      "image": "https://cdn.pixabay.com/photo/2018/01/25/00/18/sneakers-3105120_1280.jpg",
+      "description": "Designed for comfort with cushioned insoles and breathable material, Sports Running shoes",
+      "offer": "81",
+      "ratting": "1.5",
+      "id": "f3a6"
+    },
+    {
+      "id": "c078",
+      "product": "SPARX Mens Sx0706g",
+      "price": "1499",
+      "category": "Shoes",
+      "image": "https://m.media-amazon.com/images/I/41BNwMRUaJL._AC_UL480_FMwebp_QL65_.jpg",
+      "offer": "40",
+      "ratting": "3.9",
+      "description": " One Pair of Sports Shoes as shown in the pictures. 2. Storage Box. 3. Sparx Trust.High Quality Mesh "
+    },
+    {
+      "product": "GoSriKi Women Kurta",
+      "price": "2599",
+      "category": "Cloths",
+      "image": "https://cdn.pixabay.com/photo/2021/03/08/17/31/stylish-clothes-for-women-6079672_1280.jpg",
+      "description": "There might be slight variations in the actual color of the product due to different screen resolutions. Beast to wear",
+      "offer": "81",
+      "ratting": "3.7",
+      "id": "80c3"
+    },
+    {
+      "id": "d09d",
+      "product": "Maybelline New York Eyeshadow ",
+      "price": "905",
+      "category": "MakupKits",
+      "image": "https://m.media-amazon.com/images/I/71bX9J1gW9L._AC_UL480_FMwebp_QL65_.jpg",
+      "offer": "21",
+      "ratting": "4.5",
+      "description": "Maybelline New York Eyeshadow Palette, 12 Highly Blendable Shades, Matte and Sheen Colours, The Blushed Nudes, 9g "
+    },
+    {
+      "product": "Sari Chiffon Silk Fabric",
+      "price": "1499",
+      "category": "Cloths",
+      "image": "https://media.istockphoto.com/id/1266816145/photo/beautiful-indian-woman-in-sari.webp?s=2048x2048&w=is&k=20&c=eh38ArCFuRGg7J4BPdnAlvMvPwxXllhKCqyNMFTFeBI=",
+      "description": "HMP Fashion Womens Ready To Wear Sari Chiffon Silk Fabric Zari Patta Saree With Unstitch Blouse Piece ",
+      "offer": "50",
+      "ratting": "5",
+      "id": "c740"
+    },
+    {
+      "product": "blackberrys Men's",
+      "price": "6995",
+      "category": "Cloths",
+      "image": "https://media.istockphoto.com/id/956865728/photo/the-dapper-businessman.jpg?s=2048x2048&w=is&k=20&c=GDxTUGb_xHJdEQjw-zD6iXtUEDkcYfaS4RTk5fKcBEg=",
+      "description": "blackberrys Men's Formal Notch Lapel Phoenix Skinny Fit Blazer-NL-DO-CLARA2 ",
+      "offer": "30",
+      "ratting": "4.2",
+      "id": "655c"
+    },
+    {
+      "product": "Van Heusen Women",
+      "price": "1990",
+      "category": "Cloths",
+      "image": "https://cdn.pixabay.com/photo/2021/05/31/14/26/basketball-6299040_1280.jpg",
+      "description": "Seamless 2pcs set Scrunch Butt Yoga Shorts & Sports Bra Workout Set, High Waist Butt Lifting Gym Activewear",
+      "offer": "50",
+      "ratting": "4.2",
+      "id": "0dbe"
+    },
+    {
+      "product": "Regular Knee Length Short ",
+      "price": "1200",
+      "category": "Cloths",
+      "image": "https://images.pexels.com/photos/1201613/pexels-photo-1201613.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "OM SAI LATEST CREATION Women's Regular Knee Length Short ",
+      "offer": "20",
+      "ratting": "4.2",
+      "id": "8148"
+    },
+    {
+      "id": "f695",
+      "product": "LEOTUDE Men's Loopknit",
+      "price": "1200",
+      "category": "Cloths",
+      "image": "https://cdn.pixabay.com/photo/2021/07/03/07/06/man-6383192_1280.jpg",
+      "offer": "50",
+      "ratting": "3.2",
+      "description": "LEOTUDE Men's Loopknit Regular Fit Round Neck Solid Sweatshirt (Color Black)"
+    }
+  ]
+}
