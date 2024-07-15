@@ -11,60 +11,13 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Output
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-07-15 at 22-47-53 React App](https://github.com/user-attachments/assets/bdadabba-7387-4b67-966e-30260cee1919)
+![Screenshot 2024-07-15 at 22-43-33 React App](https://github.com/user-attachments/assets/e4b89698-0d91-4a8e-914c-b72b436a9479)
+![Screenshot 2024-07-15 at 22-45-01 React App](https://github.com/user-attachments/assets/4a03de6d-5d7e-4dda-a11b-bfe5aacff883)
+![Screenshot 2024-07-15 at 22-46-53 React App](https://github.com/user-attachments/assets/52cad72b-285c-4330-bf20-d7022cd50bf9)
+![Screenshot 2024-07-15 at 22-45-29 React App](https://github.com/user-attachments/assets/5c21cacc-3ff8-4951-97c0-5d839a68e600)
+![Screenshot 2024-07-15 at 22-50-34 React App](https://github.com/user-attachments/assets/0faf2033-2841-4527-b559-81e624ec7cab)
+![Screenshot 2024-07-15 at 22-49-02 React App](https://github.com/user-attachments/assets/8f4b2992-dc2b-4745-b273-d6c910d5296f)
+![Screenshot 2024-07-15 at 22-49-19 React App](https://github.com/user-attachments/assets/7954d58d-0e1b-4a3e-a95a-8c05b11a4f66)
